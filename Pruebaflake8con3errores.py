@@ -1,7 +1,7 @@
-#content of test_sample.py
- 
+# content of test_sample.py
+
 def func(x):
-    print (x)
+    print(x)
     return x + 1
 
 
