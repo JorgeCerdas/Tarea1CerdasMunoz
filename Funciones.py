@@ -1,6 +1,6 @@
 # Joseph Muñoz Cascante y Jorge Cerdas Solórzano
 # Python1.py: Funciones
-
+# ERR3 -1.5 El còdigo de error era único entre los dos métodos
 # Función fac
 # Recibe un número y retorna su valor factorial
 # Entrada: una variable int. Salida: una variable int

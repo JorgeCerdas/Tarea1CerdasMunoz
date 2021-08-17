@@ -3,6 +3,7 @@
 
 # este comando importa la libreria para usar números aleatorios
 from random import randrange
+# ERR8 -5
 
 
 # Función fac
